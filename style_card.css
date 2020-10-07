@@ -58,3 +58,8 @@ h3 {
     color: white;
     transform: rotateY(180deg);
   }
+
+  img {
+    width:150px;
+    height:200px;
+  }
